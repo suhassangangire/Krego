@@ -1,0 +1,3 @@
+[submodule "krego"]
+	path = krego
+	url = https://github.com/suhassangangire/Krego.git
